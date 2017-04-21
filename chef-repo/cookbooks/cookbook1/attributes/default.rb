@@ -1,0 +1,1 @@
+default['my_cookbook']['git_installer'] = ['Git-2.5.3-64-bit.exe']
